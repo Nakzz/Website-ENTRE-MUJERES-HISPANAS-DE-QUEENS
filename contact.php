@@ -30,7 +30,8 @@
 <body>
 		<?php include_once 'elements/header.php';?>
 	 	
-
+		<div id="content">
+		
 <!-- Page Content -->
 	<div class="container">
 
@@ -45,9 +46,7 @@
 <div class="col-md-6">
 		<div class="row">
 			<div class="col-sm-5 col-sm-offset-1">
-				<p class="mbr-contacts__text"></p>
-
-				<p>
+					<p style="font-size: 130%;">
 					<strong>ADDRESS</strong><br />  87-15 Britton Ave Apt 22
 					<br /> Elmhurst, NY 11373<br /> <br /> <br /> <strong>CONTACT
 						DETAILS</strong><br /> 
@@ -63,7 +62,7 @@
 		</div>
 </div>
 </div>
-
+</div><!-- #content -->
 
 	 	<footer><?php include_once 'elements/footer.php';?></footer>
 	 	

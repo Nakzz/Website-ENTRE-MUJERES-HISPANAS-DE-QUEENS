@@ -26,31 +26,34 @@
 			</div>
 
 			<div class="col-md-4 text-center">
-				<div class="thumbnail"><img onmouseout="this.src='assets/img/mentors/gus.jpg'" onmouseover="this.src='assets/img/mentors/gus.jpg'" src="assets/img/mentors/gus.jpg" />
+				<div class="thumbnail"><img src="img/contributors/aj.jpg" />
 					<div class="caption">
 						<h3>ABCD NAMES<br />
 							<b><small>Lead Mentor</small></b><br />
-							<small>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras vitae neque lacus. Donec tempor blandit nulla eu iaculis. Nulla eu justo aliquet, lacinia elit at, dictum purus. Sed condimentum consequat semper. Proin auctor elementum augue, sit amet lobortis dui malesuada sit amet. Aliquam et mattis elit. Vivamus vitae enim id orci volutpat eleifend. In mattis mauris urna, eu scelerisque orci congue non. Ut a ornare nunc. Ut ac mi rhoncus, consectetur augue in, consequat est. Nam ipsum lectus, mollis ornare massa eu, faucibus cursus neque. Nunc vitae neque facilisis, rutrum nisi non, tempus dolor. Aliquam nec lorem eu odio tincidunt semper. Nam varius, sem egestas bibendum consequat, lacus velit laoreet velit, nec semper erat eros ut turpis. Vestibulum dolor quam, tempor id fermentum eu, laoreet at neque. Praesent eget mauris consectetur, sagittis eros ac, pellentesque velit.</small></h3>
+							<small>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras vitae neque lacus. Donec tempor blandit nulla eu iaculis. Nulla eu justo aliquet, lacinia elit at, dictum purus. Sed condimentum consequat semper. Proin auctor elementum augue, sit amet lobortis dui malesuada sit amet. Aliquam et mattis elit. Vivamus vitae enim id orci volutpat eleifend. 
+							In mattis mauris urna, eu scelerisque orci congue non. Ut a ornare nunc. Ut ac mi rhoncus, consectetur augue in, consequat est. Nam ipsum lectus, mollis ornare massa eu, faucibus cursus neque. Nunc vitae neque facilisis, rutrum nisi non, tempus dolor. Aliquam nec lorem eu odio tincidunt semper. Nam varius, sem egestas bibendum consequat, lacus velit laoreet velit, nec semper erat eros ut turpis. Vestibulum dolor quam, tempor id fermentum eu, laoreet at neque. Praesent eget mauris consectetur, sagittis eros ac, pellentesque velit.</small></h3>
 						</div>
 					</div>
 				</div>
 
 				<div class="col-md-4 text-center">
-					<div class="thumbnail"><img onmouseout="this.src='assets/img/mentors/bob.jpg'" onmouseover="this.src='assets/img/mentors/bob.jpg'" src="assets/img/mentors/bob.jpg" />
+					<div class="thumbnail"><img src="img/contributors/aj.jpg" />
 						<div class="caption">
 							<h3>ABCD NAMES<br />
 								
-								<small>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras vitae neque lacus. Donec tempor blandit nulla eu iaculis. Nulla eu justo aliquet, lacinia elit at, dictum purus. Sed condimentum consequat semper. Proin auctor elementum augue, sit amet lobortis dui malesuada sit amet. Aliquam et mattis elit. Vivamus vitae enim id orci volutpat eleifend. In mattis mauris urna, eu scelerisque orci congue non. Ut a ornare nunc. Ut ac mi rhoncus, consectetur augue in, consequat est. Nam ipsum lectus, mollis ornare massa eu, faucibus cursus neque. Nunc vitae neque facilisis, rutrum nisi non, tempus dolor. Aliquam nec lorem eu odio tincidunt semper. Nam varius, sem egestas bibendum consequat, lacus velit laoreet velit, nec semper erat eros ut turpis. Vestibulum dolor quam, tempor id fermentum eu, laoreet at neque. Praesent eget mauris consectetur, sagittis eros ac, pellentesque velit.</small></h3>
+								<small>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras vitae neque lacus. Donec tempor blandit nulla eu iaculis. Nulla eu justo aliquet, lacinia elit at, dictum purus. Sed condimentum consequat semper. Proin auctor elementum augue, sit amet lobortis dui malesuada sit amet. Aliquam et mattis elit. Vivamus vitae enim id orci volutpat eleifend. In mattis mauris urna, eu scelerisque orci congue non. Ut a ornare nunc. Ut ac mi rhoncus, consectetur augue in, consequat est. Nam ipsum lectus, 
+								mollis ornare massa eu, faucibus cursus neque. Nunc vitae neque facilisis, rutrum nisi non, tempus dolor. Aliquam nec lorem eu odio tincidunt semper. Nam varius, sem egestas bibendum consequat, lacus velit laoreet velit, nec semper erat eros ut turpis. Vestibulum dolor quam, tempor id fermentum eu, laoreet at neque. Praesent eget mauris consectetur, sagittis eros ac, pellentesque velit.</small></h3>
 							</div>
 						</div>
 					</div>
 
 					<div class="col-md-4 text-center">
-						<div class="thumbnail"><img onmouseout="this.src='assets/img/mentors/paulino.jpg'" onmouseover="this.src='assets/img/mentors/paulino.jpg'" src="assets/img/mentors/paulino.jpg" />
+					<div class="thumbnail"><img src="img/contributors/aj.jpg" />
 							<div class="caption">
 								<h3>ABCD NAMES<br />
 									
-									<small>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras vitae neque lacus. Donec tempor blandit nulla eu iaculis. Nulla eu justo aliquet, lacinia elit at, dictum purus. Sed condimentum consequat semper. Proin auctor elementum augue, sit amet lobortis dui malesuada sit amet. Aliquam et mattis elit. Vivamus vitae enim id orci volutpat eleifend. In mattis mauris urna, eu scelerisque orci congue non. Ut a ornare nunc. Ut ac mi rhoncus, consectetur augue in, consequat est. Nam ipsum lectus, mollis ornare massa eu, faucibus cursus neque. Nunc vitae neque facilisis, rutrum nisi non, tempus dolor. Aliquam nec lorem eu odio tincidunt semper. Nam varius, sem egestas bibendum consequat, lacus velit laoreet velit, nec semper erat eros ut turpis. Vestibulum dolor quam, tempor id fermentum eu, laoreet at neque. Praesent eget mauris consectetur, sagittis eros ac, pellentesque velit.</small></h3>
+									<small>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras vitae neque lacus. Donec tempor blandit nulla eu iaculis. Nulla eu justo aliquet, lacinia elit at, dictum purus. Sed condimentum consequat semper. Proin auctor elementum augue, sit amet lobortis dui malesuada sit amet. 
+									Aliquam et mattis elit. Vivamus vitae enim id orci volutpat eleifend. In mattis mauris urna, eu scelerisque orci congue non. Ut a ornare nunc. Ut ac mi rhoncus, consectetur augue in, consequat est. Nam ipsum lectus, mollis ornare massa eu, faucibus cursus neque. Nunc vitae neque facilisis, rutrum nisi non, tempus dolor. Aliquam nec lorem eu odio tincidunt semper. Nam varius, sem egestas bibendum consequat, lacus velit laoreet velit, nec semper erat eros ut turpis. Vestibulum dolor quam, tempor id fermentum eu, laoreet at neque. Praesent eget mauris consectetur, sagittis eros ac, pellentesque velit.</small></h3>
 								</div>
 							</div>
 						</div>
@@ -59,21 +62,23 @@
 							<div class="col-md-2 text-center"></div>
 
 							<div class="col-md-4 text-center">
-								<div class="thumbnail"><img onmouseout="this.src='assets/img/mentors/pogi.jpg'" onmouseover="this.src='assets/img/mentors/pogi.jpg'" src="assets/img/mentors/pogi.jpg" />
+							<div class="thumbnail"><img src="img/contributors/aj.jpg" />
 									<div class="caption">
 										<h3>ABCD NAMES<br />
 											
-											<small>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras vitae neque lacus. Donec tempor blandit nulla eu iaculis. Nulla eu justo aliquet, lacinia elit at, dictum purus. Sed condimentum consequat semper. Proin auctor elementum augue, sit amet lobortis dui malesuada sit amet. Aliquam et mattis elit. Vivamus vitae enim id orci volutpat eleifend. In mattis mauris urna, eu scelerisque orci congue non. Ut a ornare nunc. Ut ac mi rhoncus, consectetur augue in, consequat est. Nam ipsum lectus, mollis ornare massa eu, faucibus cursus neque. Nunc vitae neque facilisis, rutrum nisi non, tempus dolor. Aliquam nec lorem eu odio tincidunt semper. Nam varius, sem egestas bibendum consequat, lacus velit laoreet velit, nec semper erat eros ut turpis. Vestibulum dolor quam, tempor id fermentum eu, laoreet at neque. Praesent eget mauris consectetur, sagittis eros ac, pellentesque velit.</small></h3>
+											<small>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras vitae neque lacus. Donec tempor blandit nulla eu iaculis. Nulla eu justo aliquet, lacinia elit at, dictum purus. 
+											Sed condimentum consequat semper. Proin auctor elementum augue, sit amet lobortis dui malesuada sit amet. Aliquam et mattis elit. Vivamus vitae enim id orci volutpat eleifend. In mattis mauris urna, eu scelerisque orci congue non. Ut a ornare nunc. Ut ac mi rhoncus, consectetur augue in, consequat est. Nam ipsum lectus, mollis ornare massa eu, faucibus cursus neque. Nunc vitae neque facilisis, rutrum nisi non, tempus dolor. Aliquam nec lorem eu odio tincidunt semper. Nam varius, sem egestas bibendum consequat, lacus velit laoreet velit, nec semper erat eros ut turpis. Vestibulum dolor quam, tempor id fermentum eu, laoreet at neque. Praesent eget mauris consectetur, sagittis eros ac, pellentesque velit.</small></h3>
 										</div>
 									</div>
 								</div>
 
 								<div class="col-md-4 text-center">
-									<div class="thumbnail"><img onmouseout="this.src='assets/img/mentors/g.jpg'" onmouseover="this.src='assets/img/mentors/g.jpg'" src="assets/img/mentors/g.jpg" />
+									<div class="thumbnail"><img src="img/contributors/aj.jpg" />
 										<div class="caption">
 											<h3>ABCD NAMES<br />
 												
-												<small>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras vitae neque lacus. Donec tempor blandit nulla eu iaculis. Nulla eu justo aliquet, lacinia elit at, dictum purus. Sed condimentum consequat semper. Proin auctor elementum augue, sit amet lobortis dui malesuada sit amet. Aliquam et mattis elit. Vivamus vitae enim id orci volutpat eleifend. In mattis mauris urna, eu scelerisque orci congue non. Ut a ornare nunc. Ut ac mi rhoncus, consectetur augue in, consequat est. Nam ipsum lectus, mollis ornare massa eu, faucibus cursus neque. Nunc vitae neque facilisis, rutrum nisi non, tempus dolor. Aliquam nec lorem eu odio tincidunt semper. Nam varius, sem egestas bibendum consequat, lacus velit laoreet velit, nec semper erat eros ut turpis. Vestibulum dolor quam, tempor id fermentum eu, laoreet at neque. Praesent eget mauris consectetur, sagittis eros ac, pellentesque velit.</small></h3>
+												<small>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras vitae neque lacus. Donec tempor blandit nulla eu iaculis. Nulla eu justo aliquet, lacinia elit at, dictum purus. Sed condimentum consequat semper. Proin auctor elementum augue, sit amet lobortis dui malesuada sit amet. Aliquam et mattis elit. 
+												Vivamus vitae enim id orci volutpat eleifend. In mattis mauris urna, eu scelerisque orci congue non. Ut a ornare nunc. Ut ac mi rhoncus, consectetur augue in, consequat est. Nam ipsum lectus, mollis ornare massa eu, faucibus cursus neque. Nunc vitae neque facilisis, rutrum nisi non, tempus dolor. Aliquam nec lorem eu odio tincidunt semper. Nam varius, sem egestas bibendum consequat, lacus velit laoreet velit, nec semper erat eros ut turpis. Vestibulum dolor quam, tempor id fermentum eu, laoreet at neque. Praesent eget mauris consectetur, sagittis eros ac, pellentesque velit.</small></h3>
 											</div>
 										</div>
 									</div>
@@ -85,7 +90,7 @@
 									<div class="col-md-2"></div>
 
 									<div class="col-md-3 text-center">
-										<div class="thumbnail"><img height="auto" onmouseout="this.src='assets/img/members/qingchen.jpg'" onmouseover="this.src='assets/img/members/qingchen.jpg'" src="assets/img/members/qingchen.jpg" width="auto" />
+										<div class="thumbnail">
 											<div class="caption">
 												<h3>ABCD <br />
 													<small>ABCD</small></h3>
@@ -94,7 +99,7 @@
 										</div>
 
 										<div class="col-md-3 text-center">
-											<div class="thumbnail"><img height="auto" onmouseout="this.src='assets/img/members/cap.jpg'" onmouseover="this.src='assets/img/members/cap.jpg'" src="assets/img/members/cap.jpg" width="auto" />
+											<div class="thumbnail">
 												<div class="caption">
 													<h3>ABCD<br />
 														<small>ABCD</small></h3>
@@ -103,7 +108,7 @@
 											</div>
 
 											<div class="col-md-3 text-center">
-												<div class="thumbnail"><img height="auto" onmouseout="this.src='assets/img/members/mic.jpg'" onmouseover="this.src='assets/img/members/mic.jpg'" src="assets/img/members/mic.jpg" width="auto" />
+												<div class="thumbnail">
 													<div class="caption">
 														<h3>ABCD<br />
 															<small>ABCD</small></h3>
