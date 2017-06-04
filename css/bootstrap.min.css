@@ -12,6 +12,7 @@ html {
 
 body {
 	margin: 0
+	 
 }
 
 article, aside, details, figcaption, figure, footer, header, hgroup,
@@ -1348,7 +1349,8 @@ body {
 	font-size: 14px;
 	line-height: 1.42857143;
 	color: #333;
-	background-color: #fff
+	background-image: url("../img/small_steps.png");
+	
 }
 
 button, input, select, textarea {
@@ -1518,7 +1520,7 @@ p {
 }
 
 .small, small {
-	font-size: 85%
+	font-size: 95%
 }
 
 .mark, mark {
@@ -5002,11 +5004,11 @@ select[multiple].input-group-sm>.form-control, select[multiple].input-group-sm>.
 
 .navbar-inverse {
 	/*background-color: #3f0370; border-color: #080808*/
-	background: #4c0989; /* For browsers that do not support gradients */
-  background: -webkit-linear-gradient(left top, #4c0989, #c593eb); /* For Safari 5.1 to 6.0 */
-  background: -o-linear-gradient(bottom right, #4c0989, #c593eb); /* For Opera 11.1 to 12.0 */
-  background: -moz-linear-gradient(bottom right, #4c0989, #c593eb); /* For Firefox 3.6 to 15 */
-  background: linear-gradient(to bottom right, #4c0989, #c593eb); /* Standard syntax */
+	background: #8e44ad; /* For browsers that do not support gradients */
+  background: -webkit-linear-gradient(left top, #8e44ad, #9b59b6); /* For Safari 5.1 to 6.0 */
+  background: -o-linear-gradient(bottom right, #8e44ad, #9b59b6); /* For Opera 11.1 to 12.0 */
+  background: -moz-linear-gradient(bottom right, #8e44ad, #9b59b6); /* For Firefox 3.6 to 15 */
+  background: linear-gradient(to bottom right, #8e44ad, #9b59b6); /* Standard syntax */
 	
 }
 

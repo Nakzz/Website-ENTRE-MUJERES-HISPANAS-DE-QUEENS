@@ -14,7 +14,7 @@
 					class="icon-bar"></span> <span class="icon-bar"></span> <span
 					class="icon-bar"></span>
 			</button>
-			<a class="navbar-brand" href="#"> <img src="img/logo.png"
+			<a class="navbar-brand" href="index.php"> <img src="img/logo.png"
 				height="60px" width="" alt="">
 			</a>
 		</div>

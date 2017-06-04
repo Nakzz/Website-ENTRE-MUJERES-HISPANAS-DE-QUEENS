@@ -10,13 +10,10 @@
     <link href="css/ninja-slidergal.css" rel="stylesheet" type="text/css" />
     <script src="js/thumbnail-slider.js" type="text/javascript"></script>
     <script src="js/ninja-slidergal.js" type="text/javascript"></script>
+    
 <title>ENTRE MUJERES HISPANAS DE QUEENS</title>
 
-<!-- Bootstrap Core CSS -->
-<link href="css/bootstrap.min.css" rel="stylesheet">
-
-<!-- Custom CSS -->
-<link href="css/small-business.css" rel="stylesheet">
+<?php include_once 'elements/href.php';?>
 </head>
 
 <body>

@@ -8,11 +8,7 @@
 
 		<title>ENTRE MUJERES HISPANAS DE QUEENS</title>
 
-		<!-- Bootstrap Core CSS -->
-		<link href="css/bootstrap.min.css" rel="stylesheet">
-
-		<!-- Custom CSS -->
-		<link href="css/small-business.css" rel="stylesheet">
+		<?php include_once 'elements/href.php';?>
 	</head>
 
 	<body>

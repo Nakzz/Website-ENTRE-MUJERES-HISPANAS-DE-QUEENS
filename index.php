@@ -12,7 +12,8 @@
 <link href="css/bootstrap.min.css" rel="stylesheet">
 
 <!-- Custom CSS -->
-<link href="css/small-business.css" rel="stylesheet">
+
+<?php include_once 'elements/href.php';?>
 </head>
 
 <body>
@@ -23,17 +24,17 @@
 		</div>
 		<div class="col-md-5">
 			<h1>ENTRE MUJERES HISPANAS DE QUEENS</h1> 
-			<small>
+			
 				<li>SOMOS UNA ORGANIZACIO SIN FINES DE LUCRO</li>
 				<li>NUESTRO LEMA: SERVIR A LA COMUNIDAD</li>				
 				<li>OBJECTIVO: LLEGAR A AYUDAR A TODAS LAS MUJERES HISPANAS QUE NECESITEN AYUDA</li>
-			</small>
+			
                 
 		</div>
  	 		
  		<?php include_once 'elements/content.php';?>
  		
- 		<footer><?php include_once 'elements/footer.php';?></footer>
+ 		<?php include_once 'elements/footer.php';?>
 	 	
 	 	
 

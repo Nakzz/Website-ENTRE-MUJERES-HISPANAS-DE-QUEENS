@@ -6,16 +6,8 @@
 
 <hr>
 <div class="container">
-        <!-- Call to Action Well -->
-        <div class="row">
-            <div class="col-lg-12">
-                <div class="well text-center">
-                    TO SERVE
-                </div>
-            </div>
-            <!-- /.col-lg-12 -->
-        </div>
-        <!-- /.row -->
+
+
 
         <!-- Content Row -->
         <div class="row">
