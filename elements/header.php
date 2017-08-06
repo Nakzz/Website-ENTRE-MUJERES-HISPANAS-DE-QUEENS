@@ -29,10 +29,10 @@
 			</ul>
 			<h1 style="float:right; color:white;"> EMHDQ.ORG </h1>
 		</div>
-		
-		
+
+
 		<!-- @TODO: Add images, add text with H1 & small tag   -->
-		
+
 		<!-- /.navbar-collapse -->
 	</div>
 	<!-- /.container -->
